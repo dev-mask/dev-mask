@@ -1,42 +1,63 @@
-<!-- ===================== -->
-<!--  DEV-MASK | README   -->
-<!-- ===================== -->
+<!-- ===================================================== -->
+<!--                 DEV-MASK | README                     -->
+<!--        Full-Stack Engineer • AI-Assisted Developer     -->
+<!-- ===================================================== -->
 
 <div align="center">
 
-# ⚡ Mask
-### Full-Stack Engineer • AI-Assisted Developer • Founder
+<!-- ================= ASCII LOGO ================= -->
 
-> **Building secure, scalable systems — accelerated by AI.**
+<pre>
+███╗   ███╗ █████╗ ███████╗██╗  ██╗
+████╗ ████║██╔══██╗██╔════╝██║ ██╔╝
+██╔████╔██║███████║███████╗█████╔╝ 
+██║╚██╔╝██║██╔══██║╚════██║██╔═██╗ 
+██║ ╚═╝ ██║██║  ██║███████║██║  ██╗
+╚═╝     ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
+</pre>
 
-[🌐 Website](https://oligne.in) • [💻 GitHub](https://github.com/dev-mask)
+<!-- ============== ANIMATED TYPING HEADER ============== -->
+
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Full-Stack+Engineer;AI-Assisted+Developer;Founder+%40+Oligne;Secure+%26+Scalable+System+Builder"
+  alt="Animated typing header"
+/>
+
+<br />
+
+<strong>Building secure, scalable systems — accelerated by AI</strong>
+
+<br /><br />
+
+<a href="https://oligne.in">🌐 Website</a> •
+<a href="https://github.com/dev-mask">💻 GitHub</a>
 
 </div>
 
 ---
 
-## 🧠 Who Am I?
+## 🧠 About Me
 
-I’m **Mask**, a **full-stack web developer** with strong foundations in system design, backend architecture, and modern frontend engineering.
+I’m **Mask**, a **Full-Stack Web Engineer** with strong expertise in **system architecture, backend engineering, and modern frontend development**.
 
-I specialize in **AI-assisted development** — using prompt engineering and automation to build **clean, scalable, production-ready software faster without compromising quality or security**.
+My edge lies in **AI-assisted development** — leveraging prompt engineering and automation to deliver **clean, secure, production-ready systems faster**, without sacrificing quality.
 
-I don’t chase frameworks.  
-I **engineer systems**.
+I don’t just ship features.  
+I **engineer systems that scale and survive.**
 
 ---
 
-## 🚀 What I Do Best
+## 🚀 What I Specialize In
 
 ```txt
-✔ Architect full-stack applications
-✔ Build secure authentication & data flows
-✔ Design scalable database systems
-✔ Create modern, responsive UI/UX
-✔ Leverage AI to accelerate development
-✔ Own products end-to-end
-🛠️ Tech Arsenal
-⚙️ Core Stack
+▸ Full-stack application architecture
+▸ Secure authentication & authorization
+▸ Database design & optimization
+▸ Modern, responsive UI/UX
+▸ AI-assisted development workflows
+▸ End-to-end product ownership
+🛠️ Tech Stack
+⚙️ Core Development
 
 
 
@@ -52,11 +73,11 @@ I **engineer systems**.
 🤖 AI & Automation
 Prompt Engineering
 
-AI-Assisted Coding
+AI-Assisted Development
 
 Workflow Automation
 
-Code Optimization with AI
+AI-Driven Optimization
 
 🧰 Tools
 
@@ -67,87 +88,80 @@ Code Optimization with AI
 Oligne — E-commerce Clothing Brand
 2024 – Present
 
-Built a complete e-commerce platform from zero
+Built a complete e-commerce platform from scratch
 
 Custom authentication, admin dashboards & order systems
 
 Secure payment integrations & data protection
 
-Scalable database design for growth
+Scalable database architecture for growth
 
 Full ownership: architecture → deployment → operations
 
-Startup mindset + production engineering
-
-🧩 Featured Builds
+🧩 Featured Projects
 🛒 Oligne — Full E-commerce Platform
-Stack: HTML, CSS, JS, PHP, MySQL
+Stack: HTML, CSS, JavaScript, PHP, MySQL
 
-Custom backend architecture
+Secure authentication & role-based access
 
-Secure login & role-based access
+Product & order management dashboard
 
-Admin product & order dashboard
+Mobile-first modern UI
 
-Mobile-first, modern UI
+Optimized backend & database
 
 🔗 Advanced Vendor Management System
-Stack: HTML, CSS, JS, PHP, MySQL
+Stack: HTML, CSS, JavaScript, PHP, MySQL
 
-Vendor onboarding & automation
+Vendor onboarding & workflow automation
 
 Real-time dashboards
 
-Optimized data retrieval
+Efficient data retrieval
 
-Supply chain efficiency focus
+Supply-chain focused design
 
-💬 Social Media Platform
+💬 Social Media Application
 Stack: React, Node.js, MySQL
 
 RESTful APIs
 
 Secure authentication
 
-Scalable backend design
+Scalable backend architecture
 
-Component-driven React frontend
+Component-driven frontend
 
 🔐 Engineering Philosophy
-“Fast is useless if it’s fragile.”
+“Speed means nothing without stability.”
 
-Security is not optional
+Security by design
 
-Scalability is designed, not guessed
+Scalability from day one
 
-Clean code is a responsibility
+Clean, maintainable code
 
-AI is a multiplier, not a shortcut
+AI as a force multiplier — not a shortcut
 
 🌍 Languages
-🇧🇩 Bengali — Native
+Bengali — Native
 
-🇬🇧 English — Fluent
+English — Fluent
 
-🇮🇳 Hindi — Fluent
+Hindi — Fluent
 
-📊 GitHub Stats
+📊 GitHub Stats (Dark / Light Adaptive)
 <div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=dev-mask&show_icons=true&hide_border=true&theme=transparent" />
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-mask&layout=compact&hide_border=true&theme=transparent" />
 
 </div>
-📬 Contact
+📬 Connect With Me
 🌐 https://oligne.in
 
 💻 https://github.com/dev-mask
 
 <div align="center">
-⚡ “I don’t just build apps — I engineer systems that survive scale.”
+⚡ I don’t just write code — I engineer systems that last.
 </div> ```
-🔥 Why this README shocks
-✅ Clean visual hierarchy
-✅ Professional but bold tone
-✅ AI-first positioning
-✅ Startup + system ownership vibe
-✅ Recruiter & founder friendly
-✅ Modern GitHub aesthetics

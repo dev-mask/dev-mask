@@ -1,128 +1,153 @@
-# 👋 Hi, I'm Mask
+<!-- ===================== -->
+<!--  DEV-MASK | README   -->
+<!-- ===================== -->
 
-**Full-Stack Web Developer | AI-Assisted Engineer | Founder @ Oligne**
+<div align="center">
 
-I’m a Computer Science diploma graduate with strong expertise in **full-stack web development** and **AI-assisted software engineering**. I specialize in building **secure, scalable, and well-structured systems** with clean UI/UX and reliable performance.
+# ⚡ Mask
+### Full-Stack Engineer • AI-Assisted Developer • Founder
 
-I enjoy taking full ownership of products—from architecture and development to deployment and optimization.
+> **Building secure, scalable systems — accelerated by AI.**
 
----
+[🌐 Website](https://oligne.in) • [💻 GitHub](https://github.com/dev-mask)
 
-## 🚀 About Me
-
-- 🎓 Diploma in Computer Science & Technology (2024)
-- 🧠 Strong in AI-assisted development & prompt engineering
-- 🏗️ Founder & developer of a full-scale e-commerce platform
-- 🔐 Security-focused mindset with scalable architecture
-- 🌱 Constant learner, problem solver, and system thinker
+</div>
 
 ---
 
-## 🛠️ Technical Skills
+## 🧠 Who Am I?
 
-### Core Expertise
-- **Full-Stack Web Development**
-- **Secure & Scalable System Design**
+I’m **Mask**, a **full-stack web developer** with strong foundations in system design, backend architecture, and modern frontend engineering.
 
-### Programming & Web
-- HTML, CSS, JavaScript
-- PHP, Laravel
-- React, Next.js, Node.js
-- TypeScript
+I specialize in **AI-assisted development** — using prompt engineering and automation to build **clean, scalable, production-ready software faster without compromising quality or security**.
 
-### Databases
-- MySQL
-- PostgreSQL
-
-### AI & Automation
-- Prompt Engineering
-- AI-Assisted Development
-- AI-Based Automation Workflows
-
-### Tools & Technologies
-- Git & GitHub
-- VS Code
-- Docker
+I don’t chase frameworks.  
+I **engineer systems**.
 
 ---
 
-## 💼 Work Experience
+## 🚀 What I Do Best
 
-### **Founder & Web Developer**  
-**Oligne – E-commerce Clothing Brand**  
-_2024 – Present | Remote_
+```txt
+✔ Architect full-stack applications
+✔ Build secure authentication & data flows
+✔ Design scalable database systems
+✔ Create modern, responsive UI/UX
+✔ Leverage AI to accelerate development
+✔ Own products end-to-end
+🛠️ Tech Arsenal
+⚙️ Core Stack
 
-- Designed and developed the complete e-commerce platform **from scratch**
-- Built custom authentication, product management, and order processing systems
-- Integrated secure payment workflows and implemented security best practices
-- Architected scalable database structures for growing users and products
-- Managed technical operations, dashboards, and third-party integrations
-- Led online presence strategy and marketplace operations
 
----
 
-## 📌 Featured Projects
 
-### 🛒 Full E-commerce Website – Oligne  
-**Tech:** HTML, CSS, JavaScript, PHP, MySQL
 
-- Custom-built e-commerce system with secure authentication
-- Admin dashboard for product & order management
-- Responsive, modern UI/UX across all devices
-- Optimized MySQL database with secure data handling
 
----
 
-### 🧩 Advanced Vendor Management System  
-**Tech:** HTML, CSS, JavaScript, PHP, MySQL
 
-- Centralized vendor onboarding and workflow automation
-- Scalable database architecture for efficient data retrieval
-- Real-time dashboards for vendor tracking and analytics
-- Improved supply chain operations through automation
 
----
+🗄️ Databases
 
-### 💬 Social Media Application  
-**Tech:** React, Node.js, MySQL
 
-- Secure backend with RESTful API architecture
-- User authentication and real-time updates
-- Scalable database structure
-- Modern React frontend with component-based design
+🤖 AI & Automation
+Prompt Engineering
 
----
+AI-Assisted Coding
 
-## ⭐ Key Highlights
+Workflow Automation
 
-- 🤖 **AI Prompt Engineering Mastery**  
-  Leveraging AI tools to speed up development and improve code quality
+Code Optimization with AI
 
-- 🚀 **Startup Experience**  
-  Built and scaled a production-ready e-commerce platform independently
+🧰 Tools
 
-- 🔐 **Security-First Development**  
-  Focused on secure authentication, data protection, and best practices
 
-- 🧠 **End-to-End Ownership**  
-  From architecture and development to deployment and operations
 
----
+🏗️ Experience
+👑 Founder & Full-Stack Developer
+Oligne — E-commerce Clothing Brand
+2024 – Present
 
-## 🌍 Languages
+Built a complete e-commerce platform from zero
 
-- Bengali — Native  
-- English — Fluent  
-- Hindi — Fluent  
+Custom authentication, admin dashboards & order systems
 
----
+Secure payment integrations & data protection
 
-## 📫 Connect With Me
+Scalable database design for growth
 
-- 🌐 Website: https://oligne.in  
-- 💻 GitHub: https://github.com/your-username  
-- 📧 Email: your-email@example.com  
+Full ownership: architecture → deployment → operations
 
----
+Startup mindset + production engineering
 
-> *“I don’t just write code — I build systems that scale, perform, and last.”*
+🧩 Featured Builds
+🛒 Oligne — Full E-commerce Platform
+Stack: HTML, CSS, JS, PHP, MySQL
+
+Custom backend architecture
+
+Secure login & role-based access
+
+Admin product & order dashboard
+
+Mobile-first, modern UI
+
+🔗 Advanced Vendor Management System
+Stack: HTML, CSS, JS, PHP, MySQL
+
+Vendor onboarding & automation
+
+Real-time dashboards
+
+Optimized data retrieval
+
+Supply chain efficiency focus
+
+💬 Social Media Platform
+Stack: React, Node.js, MySQL
+
+RESTful APIs
+
+Secure authentication
+
+Scalable backend design
+
+Component-driven React frontend
+
+🔐 Engineering Philosophy
+“Fast is useless if it’s fragile.”
+
+Security is not optional
+
+Scalability is designed, not guessed
+
+Clean code is a responsibility
+
+AI is a multiplier, not a shortcut
+
+🌍 Languages
+🇧🇩 Bengali — Native
+
+🇬🇧 English — Fluent
+
+🇮🇳 Hindi — Fluent
+
+📊 GitHub Stats
+<div align="center">
+
+
+</div>
+📬 Contact
+🌐 https://oligne.in
+
+💻 https://github.com/dev-mask
+
+<div align="center">
+⚡ “I don’t just build apps — I engineer systems that survive scale.”
+</div> ```
+🔥 Why this README shocks
+✅ Clean visual hierarchy
+✅ Professional but bold tone
+✅ AI-first positioning
+✅ Startup + system ownership vibe
+✅ Recruiter & founder friendly
+✅ Modern GitHub aesthetics
